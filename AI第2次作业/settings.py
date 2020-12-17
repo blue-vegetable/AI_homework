@@ -1,0 +1,5 @@
+filename = 'MazeData1.txt'
+wall_char = '%'
+space_char = ' '
+start_char = 'S'
+end_char = 'E'
